@@ -1,6 +1,7 @@
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHV8BvFPAMUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1697987276867?e=1703721600&v=beta&t=jMUOc9gta-M99u_jzi1nxCOE5S7Sxb-G1FRMUOyi2cM)
+
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHV8BvFPAMUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1697987276867?e=1703721600&v=beta&t=jMUOc9gta-M99u_jzi1nxCOE5S7Sxb-G1FRMUOyi2cM)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
