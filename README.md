@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHV8BvFPAMUPQ/profile-displaybackgroundimage-shrink_350_1400/0/1697987276867?e=1703721600&v=beta&t=jMUOc9gta-M99u_jzi1nxCOE5S7Sxb-G1FRMUOyi2cM)
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Arafat Hosen
+#### Data Scientist & Analyst | Power Bi
 
 As a Data Scientist & Analyst, I harness the power of data to uncover insights that drive informed decision-making. With expertise in Power BI and TensorFlow, I create impactful data visualizations and machine learning solutions that empower organizations to thrive in the data-driven era. Let's connect and explore how we can leverage data to drive innovation and achieve our goals together.
 
