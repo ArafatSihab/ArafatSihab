@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+As a Data Scientist & Analyst, I harness the power of data to uncover insights that drive informed decision-making. With expertise in Power BI and TensorFlow, I create impactful data visualizations and machine learning solutions that empower organizations to thrive in the data-driven era. Let's connect and explore how we can leverage data to drive innovation and achieve our goals together.
 
 Skills: Data Cleaning and Preprocessing/ Data Visualization(Power Bi)/ Machine Learning/ Python/Data Mining/ SQL/ Time Series Analysis/ A/B Testing/ Data Storytelling
 
